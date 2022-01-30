@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krzysiek</h1>
 <h3 align="center">IT Student</h3>
 
-- 🔭 I’m currently working on **Project X**
+- 🔭 I’m currently working on **My own project**
 
 - 🌱 I’m currently learning **Backend languages, frontend RWD**
 
